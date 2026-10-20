@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Giniyatullina_5_1</string>
+    <string name="inputCity">Введите город (на английском)</string>
+    <string name="buttonText">Получить погоду</string>
+    <string name="city">Город: </string>
+    <string name="temper">Температура: </string>
+    <string name="press">Давление: </string>
+    <string name="wind">Ветер: </string>
+</resources>
